@@ -1,0 +1,25 @@
+// Bordered & Pulled
+// -------------------------
+
+.#{$fa-resources.css-prefix}-border {
+  padding: .2em .25em .15em;
+  border: solid .08em $fa-border-color;
+  border-radius: .1em;
+}
+
+.#{$fa-resources.css-prefix}-pull-left { float: left; }
+.#{$fa-resources.css-prefix}-pull-right { float: right; }
+
+.#{$fa-resources.css-prefix} {
+  &.#{$fa-resources.css-prefix}-pull-left { margin-right: .3em; }
+  &.#{$fa-resources.css-prefix}-pull-right { margin-left: .3em; }
+}
+
+/* Deprecated as of 4.4.0 */
+.pull-right { float: right; }
+.pull-left { float: left; }
+
+.#{$fa-resources.css-prefix} {
+  &.pull-left { margin-right: .3em; }
+  &.pull-right { margin-left: .3em; }
+}

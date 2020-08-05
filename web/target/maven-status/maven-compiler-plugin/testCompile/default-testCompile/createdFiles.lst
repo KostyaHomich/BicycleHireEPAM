@@ -1,0 +1,9 @@
+epam\project\config\WebConfigTest.class
+epam\project\controller\BicycleControllerTest.class
+epam\project\database\dao\BicycleDaoImplTest.class
+epam\project\controller\PointHireControllerTest.class
+epam\project\database\dao\UserDaoImplTest.class
+epam\project\controller\UserControllerTest.class
+epam\project\config\DaoConfigTest.class
+epam\project\controller\PageControllerTest.class
+epam\project\database\dao\PointHireDaoImplTest.class

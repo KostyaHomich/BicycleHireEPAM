@@ -1,0 +1,4 @@
+epam\project\database\config\DaoConfig.class
+epam\project\database\dao\UserDaoImpl.class
+epam\project\database\dao\BicycleDaoImpl.class
+epam\project\database\dao\PointHireDaoImpl.class

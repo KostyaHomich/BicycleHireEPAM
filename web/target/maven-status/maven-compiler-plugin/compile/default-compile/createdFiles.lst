@@ -1,0 +1,6 @@
+epam\project\config\WebInitializer.class
+epam\project\util\Parser.class
+epam\project\config\WebConfig.class
+epam\project\config\SecurityInitializer.class
+epam\project\config\SecurityConfig.class
+epam\project\util\DatabaseUpdater.class

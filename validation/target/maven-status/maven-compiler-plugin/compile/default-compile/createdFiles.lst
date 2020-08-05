@@ -1,0 +1,4 @@
+epam\project\validation\impl\BicycleValidator.class
+epam\project\validation\impl\UserValidator.class
+epam\project\validation\ValidationResult.class
+epam\project\validation\impl\PointHireValidator.class
